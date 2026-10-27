@@ -9,8 +9,6 @@ Disciplina: Desenvolvimento Front-End para Web
 
 Projeto: AjudaJá — Plataforma de Voluntariado Comunitário
 
-Link Do Projeto
-
 1. Tema do Projeto
 O projeto consiste no desenvolvimento de uma aplicação web denominada AjudaJá, uma plataforma voltada à divulgação de projetos sociais e oportunidades de voluntariado.
 
