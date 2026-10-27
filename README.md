@@ -1,5 +1,5 @@
 # Atsala
-Atividade aula 7 (Projeto Final AV2 de 0,0 a 5,0) (26/10/26)
+Atividade aula 7 E Também o Projeto Final (AV2 de 0,0 a 5,0) (26/10/26)
 
 PROPOSTA DE PROJETO FINAL
 AjudaJá — Conectando Pessoas, Transformando Comunidades
