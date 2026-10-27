@@ -49,16 +49,27 @@ As principais funcionalidades previstas são:
 
 
 Página inicial com apresentação da plataforma.
+
 Página institucional com informações sobre o projeto.
+
 Listagem de oportunidades de voluntariado.
+
 Visualização dos detalhes das atividades.
+
 Apresentação das organizações sociais.
+
 Catálogo de projetos comunitários.
+
 Formulário de cadastro de voluntários.
+
 Formulário de cadastro de organizações.
+
 Formulário de inscrição em atividades.
+
 Página de acompanhamento das inscrições.
+
 Seção de perguntas frequentes.
+
 Formulário de contato.
 
 
