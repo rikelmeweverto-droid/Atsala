@@ -1,5 +1,5 @@
 # Atsala
-Atividade aula 7 (26/10/26)
+Atividade aula 7 (Projeto Final AV2 de 0,0 a 5,0) (26/10/26)
 
 PROPOSTA DE PROJETO FINAL
 AjudaJá — Conectando Pessoas, Transformando Comunidades
@@ -46,43 +46,40 @@ Com a implementação das funcionalidades interativas, será possível simular o
 6. Principais Funcionalidades
 As principais funcionalidades previstas são:
 
+- Página inicial com apresentação da plataforma.
 
+- Página institucional com informações sobre o projeto.
 
-Página inicial com apresentação da plataforma.
+- Listagem de oportunidades de voluntariado.
 
-Página institucional com informações sobre o projeto.
+- Visualização dos detalhes das atividades.
 
-Listagem de oportunidades de voluntariado.
+- Apresentação das organizações sociais.
 
-Visualização dos detalhes das atividades.
+- Catálogo de projetos comunitários.
 
-Apresentação das organizações sociais.
+- Formulário de cadastro de voluntários.
 
-Catálogo de projetos comunitários.
+- Formulário de cadastro de organizações.
 
-Formulário de cadastro de voluntários.
+- Formulário de inscrição em atividades.
 
-Formulário de cadastro de organizações.
+- Página de acompanhamento das inscrições.
 
-Formulário de inscrição em atividades.
+- Seção de perguntas frequentes.
 
-Página de acompanhamento das inscrições.
-
-Seção de perguntas frequentes.
-
-Formulário de contato.
-
+7. Formulário de contato.
 
 Também está prevista a implementação futura de filtros de pesquisa, validação de formulários e gerenciamento demonstrativo de inscrições utilizando JavaScript.
 
-7. Tecnologias Utilizadas
+8. Tecnologias Utilizadas
 HTML5: responsável pela estruturação das páginas, formulários, tabelas, links e demais elementos.
 
 CSS3: utilizado para desenvolver a identidade visual, definir cores, fontes, espaçamentos, organização dos componentes e responsividade.
 
 JavaScript: utilizado posteriormente para implementar interatividade, validação de formulários, filtros e manipulação dinâmica das informações.
 
-8. Resultados Esperados
+9. Resultados Esperados
 Espera-se desenvolver uma aplicação web organizada, acessível e visualmente agradável, capaz de apresentar oportunidades de voluntariado e incentivar a participação em ações comunitárias.
 
 O projeto permitirá aplicar os conhecimentos adquiridos na disciplina, desenvolver habilidades de programação Front-End e compreender as etapas de construção de uma aplicação web.
